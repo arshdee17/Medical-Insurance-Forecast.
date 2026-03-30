@@ -9,7 +9,7 @@ The goal of this analysis is to provide "Explainable AI"—moving beyond black-b
 ## 🛠️ Tech Stack
 * **Language:** Python 3.10+
 * **Libraries:** `Pandas` (Data Cleaning), `NumPy` (Math), `Scikit-Learn` (Modeling), `Seaborn/Matplotlib` (Visualization) [cite: 2, 3, 4, 6]
-* **Platform:** Google Colab / Jupyter Notebook [cite: 1]
+* **Platform:** Google Colab 
 
 ## 📊 Key Insights & Results
 * **Model Accuracy:** The model achieved an **$R^2$ score of 0.8295**, explaining ~83% of the variance in costs[cite: 110].
